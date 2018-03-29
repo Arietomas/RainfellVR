@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Glass test.unity
+  isLoaded: 1
+  isActive: 1
