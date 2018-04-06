@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Rain Test.unity
+  - enabled: 0
+    path: Assets/Scenes/Rain Test.unity
     guid: 3ad7085eb0dc2f641ba792c02b5758c3
+  - enabled: 1
+    path: Assets/Scenes/Main Scene.unity
+    guid: 480fe7241d78cac4da5e9c6448294472
